@@ -1,10 +1,15 @@
 This project focuses on extracting valuable movie information from themoviedb. The extracted data includes essential details for each movie, such as:
 
 Movie Name
+
 Release Date
+
 Rating
+
 Director
+
 Duration
+
 Genre
 
 Website: https://www.themoviedb.org/movie
